@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NoiPlugin-3931.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\beramy\UE4\Unreal Projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\beramy\UE4\Unreal Projects\MyProject\Plugins\NoiPlugin\Intermediate\Build\Win64\UE4Editor\Development\NoiPlugin\Module.NoiPlugin.cpp.obj"
+"D:\beramy\UE4\Unreal Projects\MyProject\Plugins\NoiPlugin\Intermediate\Build\Win64\UE4Editor\Development\NoiPlugin\Module.NoiPlugin.gen.cpp.obj"
+"D:\beramy\UE4\Unreal Projects\MyProject\Plugins\NoiPlugin\Intermediate\Build\Win64\UE4Editor\Development\NoiPlugin\PCLaunch.rc.res"
+/OUT:"D:\beramy\UE4\Unreal Projects\MyProject\Plugins\NoiPlugin\Intermediate\Build\Win64\UE4Editor\Development\NoiPlugin\UE4Editor-NoiPlugin-3931.lib"
