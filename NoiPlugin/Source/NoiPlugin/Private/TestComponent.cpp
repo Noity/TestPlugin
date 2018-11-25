@@ -31,9 +31,9 @@ void UTestComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActorC
 
 	// ...
 
-	// 1秒置きにオーナーの位置を出力する
+	// 0.5秒置きにオーナーの位置を出力する
 	TimeForPrint += DeltaTime;
-	if (TimeForPrint > 1)
+	if (TimeForPrint > 0.5f)
 	{
 		PrintOwnerLocation();
 		TimeForPrint = 0.0f;
